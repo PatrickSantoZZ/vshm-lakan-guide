@@ -1,0 +1,16 @@
+{
+    "files": {
+        "README.md": "7c70ae866870ef1907468667d6d20dcec76ad7ccba286aa30b642f5604e83661",
+        "format.js": "a0d34cfb7ab631177fbb0302e06a5858155db60afc459cd14f50b000afa2463e",
+        "index.js": "82fd9f7c58cb850df1fbf04886895db0ad07ad59ba11f04c583d9c288220f882",
+        "module.json": "5933318cc04e586748f45b4471b29abe816d30ca6f468a4d0affebc2e4de0b4f"
+    },
+    "defs": {
+        "C_CHAT": 1,
+        "C_WHISPER": 1,
+        "S_ACTION_STAGE": 9,
+        "S_BOSS_GAGE_INFO": 3,
+        "S_CHAT": [1,3],
+        "S_DUNGEON_EVENT_MESSAGE": 2
+    }
+}
